@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishanYadav333
-- 👀 I’m interested in coding with python and javascript
-- 🌱 I’m currently learning python with data science
+- 👀 I’m interested in coding with python and java
+- 🌱 I’ve completed python with data science
 - 💞️ I’m looking to collaborate on projects of data science
 - 📫 
 
