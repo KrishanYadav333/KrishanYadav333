@@ -24,13 +24,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Krishanyadav333&icon=0&color=8)](https://visitcount.itsvg.in)
 
+<br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishanYadav333/KrishanYadav333/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishanYadav333/KrishanYadav333/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KrishanYadav333/KrishanYadav333/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/KrishanYadav1191) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
