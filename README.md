@@ -1,8 +1,8 @@
 <div align="center">
 
-# � Hey there! I'mh Krishan Yadav
+# 👋 Hey there! I'm Krishan Yadav
 
-### 🚀 Aspiring AI Cloud Architect | Python Developer | Game Dev Enthusiast
+### 🚀 Full Stack Developer → AI Cloud Architect | MERN Stack Expert
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishanYadav333/KrishanYadav333/output/pacman-contribution-graph-dark.svg">
@@ -14,41 +14,69 @@
 
 ## 🎯 What I'm Up To
 
-```python
-class KrishanYadav:
-    def __init__(self):
-        self.current_focus = "Python Development"
-        self.learning = ["Frontend Development", "Cloud Architecture"]
-        self.collaboration_interests = ["Unreal Engine", "AI Projects"]
-        self.goals = ["Master AI/ML", "Build Cool Games", "Cloud Mastery"]
+```javascript
+class KrishanYadav {
+    constructor() {
+        this.currentRole = "Full Stack Developer";
+        this.expertise = ["MERN Stack", "Next.js", "Nest.js"];
+        this.transitioning_to = "AI Cloud Architect";
+        this.learning = ["AWS/Azure", "Machine Learning", "Cloud Architecture"];
+        this.passion = ["Building scalable apps", "AI integration", "Cloud solutions"];
+    }
     
-    def get_daily_routine(self):
-        return ["☕ Coffee", "💻 Code", "🎮 Game Dev", "🔄 Repeat"]
+    getDailyRoutine() {
+        return ["☕ Coffee", "⚛️ React/Next.js", "🔧 Node.js/Nest.js", "☁️ Cloud Learning", "🔄 Repeat"];
+    }
+}
 ```
 
 ## 🛠️ Tech Arsenal
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Game Development & Design
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & AI (Learning Path)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🎯 My Journey: Full Stack → AI Cloud Architect
+
+```mermaid
+graph LR
+    A[MERN Stack Developer] --> B[Learning Cloud Platforms]
+    B --> C[AI/ML Integration]
+    C --> D[Cloud Architecture]
+    D --> E[AI Cloud Architect]
+```
+
+**Current Focus:**
+- 🔧 Building scalable full-stack applications with MERN + Next.js
+- ☁️ Learning AWS/Azure cloud services and architecture patterns  
+- 🤖 Integrating AI/ML capabilities into web applications
+- 📚 Studying cloud-native development and microservices
 
 ## 📊 GitHub Analytics
 
@@ -67,6 +95,10 @@ class KrishanYadav:
   <img src="https://github-profile-trophy.vercel.app/?username=Krishanyadav333&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 </div>
 
+## 🚀 Featured Projects
+
+*Building awesome full-stack applications with modern tech stacks...*
+
 ## 🌐 Let's Connect!
 
 <div align="center">
@@ -82,7 +114,7 @@ class KrishanYadav:
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💡 "The best way to predict the future is to create it." - Peter Drucker
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Krishanyadav333&icon=2&color=6)
 
