@@ -152,7 +152,7 @@ graph TD
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **"Code is poetry written in logic"**
 
-<img src="https://komarev.com/github-profile-views-counter/svg/?username=Krishanyadav333&style=for-the-badge&color=blueviolet&labelColor=000000"/>
+
 
 **✨ Building the future, one commit at a time ✨**
 
