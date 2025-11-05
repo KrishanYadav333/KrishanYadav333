@@ -1,66 +1,93 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Krishan</h1>
-<p>Hi, I'm Krishan Yadav — an aspiring AI Cloud Architect</p>
+# � Hey there! I'mh Krishan Yadav
 
-
-# 💫 About Me:
-🔭 I’m currently working on Python <br>
-👯 I’m looking to collaborate on Unreal Engine <br>
-🌱 I’m currently learning Front End Development
-
-
-
-## 🌐 Socials:
-<a href="https://instagram.com/harshhh_1191"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/krishan-yadav-323425253"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/KrishanYdv1191"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-<a href="mailto:kryshan753@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-
-
-# 💻 Tech Stack:
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" />
-
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Krishanyadav333&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Krishanyadav333&theme=solarized-light&hide_border=true" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishanyadav333&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Krishanyadav333&theme=solarized-light&no-frame=false&no-bg=false&margin-w=4" />
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Krishanyadav333&limit=5&theme=solarized-light&combine_all_yearly_contributions=true" />
-
----
-<img src="https://visitcount.itsvg.in/api?id=Krishanyadav333&icon=0&color=8" />
-
-<br clear="both">
+### 🚀 Aspiring AI Cloud Architect | Python Developer | Game Dev Enthusiast
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishanYadav333/KrishanYadav333/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishanYadav333/KrishanYadav333/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KrishanYadav333/KrishanYadav333/output/pacman-contribution-graph.svg">
+  <img alt="Pacman eating my contributions" src="https://raw.githubusercontent.com/KrishanYadav333/KrishanYadav333/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-###
+---
 
-## 💰 You can help me by Donating
-<a href="https://paypal.me/KrishanYadav1191"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+## 🎯 What I'm Up To
+
+```python
+class KrishanYadav:
+    def __init__(self):
+        self.current_focus = "Python Development"
+        self.learning = ["Frontend Development", "Cloud Architecture"]
+        self.collaboration_interests = ["Unreal Engine", "AI Projects"]
+        self.goals = ["Master AI/ML", "Build Cool Games", "Cloud Mastery"]
+    
+    def get_daily_routine(self):
+        return ["☕ Coffee", "💻 Code", "🎮 Game Dev", "🔄 Repeat"]
+```
+
+## 🛠️ Tech Arsenal
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Game Development & Design
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishanyadav333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishanyadav333&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Krishanyadav333&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishanyadav333&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+</div>
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishan-yadav-323425253)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KrishanYdv1191)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshhh_1191)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kryshan753@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Krishanyadav333&icon=2&color=6)
+
+**⭐ Star my repos if you find them interesting!**
+
+</div>
 
 </div>
