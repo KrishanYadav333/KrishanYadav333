@@ -94,7 +94,18 @@ const krishan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **GitHub Analytics**
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **GitHub Analytics & Open Source**
+
+<div align="center">
+
+<img src="https://img.shields.io/github/issues-search?query=author%3AKrishanyadav333%20is%3Apr&label=Total%20PRs&color=1e90ff&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/issues-search?query=author%3AKrishanyadav333%20is%3Apr%20is%3Amerged&label=Merged%20PRs&color=2ea043&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/issues-search?query=author%3AKrishanyadav333%20is%3Apr%20is%3Aopen&label=Open%20PRs&color=d29922&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/issues-search?query=author%3AKrishanyadav333%20is%3Apr%20is%3Aclosed%20-is%3Amerged&label=Closed%20PRs&color=f85149&style=for-the-badge&logo=github"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 <table>
