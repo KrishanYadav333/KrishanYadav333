@@ -125,7 +125,12 @@ const krishan = {
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishanyadav333&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF"/>
+  <a href="https://github.com/KrishanYadav333/SU-Curries">
+    <img src="https://github-readme-stats.demolab.com/api/pin/?username=Krishanyadav333&repo=SU-Curries&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/KrishanYadav333/EXXA">
+    <img src="https://github-readme-stats.demolab.com/api/pin/?username=Krishanyadav333&repo=EXXA&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
