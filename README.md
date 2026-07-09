@@ -112,12 +112,12 @@ const krishan = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishanyadav333&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishanyadav333&theme=radical"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishanyadav333&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishanyadav333&theme=radical"/>
 
 </td>
 </tr>
@@ -126,10 +126,10 @@ const krishan = {
 
 <div align="center">
   <a href="https://github.com/KrishanYadav333/SU-Curries">
-    <img src="https://gh-card.dev/repos/KrishanYadav333/SU-Curries.svg?theme=radical" />
+    <img src="https://gh-card.dev/repos/KrishanYadav333/SU-Curries.svg?theme=dark" />
   </a>
   <a href="https://github.com/KrishanYadav333/EXXA">
-    <img src="https://gh-card.dev/repos/KrishanYadav333/EXXA.svg?theme=radical" />
+    <img src="https://gh-card.dev/repos/KrishanYadav333/EXXA.svg?theme=dark" />
   </a>
 </div>
 
